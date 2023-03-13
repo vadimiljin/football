@@ -1,5 +1,7 @@
 # Data Analytics of Football Performance and Predictive Modeling of Match Outcomes
 
+![map_clubs](https://raw.githubusercontent.com/vadimiljin/football/master/map_clubs.png)
+
 In today's world, data analysis plays a crucial role in various industries, allowing us to gather insights into user behavior, improve technological performance, and even shape ideas for the future. According to market [research](https://www.ibisworld.com/global/market-size/global-sports-betting-lotteries/), the Global Sports Betting & Lotteries Market Size in 2023 is $243.7 billion. As a result, businesses and users alike are increasingly interested in understanding the intricacies of the field to make profitable decisions. With this in mind, my project aims to delve deeper into the world of soccer betting by analyzing given data and using statistical modeling to predict the outcomes of football matches.
 
 Through my analysis, I hope to uncover valuable insights that can help both businesses and users make informed decisions about soccer betting. By examining the data and applying statistical modeling, I aim to gain a deeper understanding of the factors that contribute to successful betting on soccer games.
